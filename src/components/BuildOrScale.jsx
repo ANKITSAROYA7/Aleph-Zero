@@ -10,7 +10,7 @@ const BuildOrScale = () => {
                     <div className=' w-full md:w-6/12 px-3'>
                         <div className=' border bg-gradient-to-t from-[#14202A]  to-[rgba(20,32,42,0)]  border-[#1B2B38] group '>
                             <Image src="/images/png/Build.png" className=' w-full pb-[15px] lg:pb-[26px]' alt='logo' width={574} height={147} />
-                            <div className=' px-5 pb-5 lg:ps-[49px] lg:pe-[33px]  lg:pb-9'>
+                            <div className=' px-5  pb-5 lg:ps-[49px] lg:pe-[33px]  lg:pb-9'>
                                 <div className=' flex items-center pb-4'>
                                     <div className=' w-[2px] h-[23.53px] bg-[#00EAC7] me-[16px]'>
                                     </div>
