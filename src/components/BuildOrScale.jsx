@@ -16,7 +16,7 @@ const BuildOrScale = () => {
                                     </div>
                                     <p className='ff-bold text-[22px] leading-7 tracking-[0.72px] text-white ff-inter'>Build <span className=' font-light text-[24px]'>fast</span></p>
                                 </div>
-                                <p className=' ff-karla font-light text-base leading-6 max-w-[409px] text-[#BCCBD6] pb-[20px] lg:pb-[42px]'>Benefit from a unique combination of our consensus
+                                <p className=' ff-karla font-light  text-base leading-6 max-w-[409px] text-[#BCCBD6] pb-[20px] lg:pb-[42px]'>Benefit from a unique combination of our consensus
                                     protocol, AlephBFT, and ink!, the Rust-based WASM
                                     programming environment.</p>
                                 <p className='text-[#00CCAB] flex items-center justify-end ff-inter font-medium text-[15px] leading-[21px] tracking-[0.64px] group-hover:translate-x-[10px] transition-all duration-500 '>Deploy apps <span className=' ps-2'><GreenArrow /></span></p>
